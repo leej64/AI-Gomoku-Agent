@@ -1,2 +1,1 @@
-# AI Gomoku Agent
- AI Gomoku Agent using Google Deepmind AlphaZero method
+![Alt text](/poster/poster.jpg?raw=true "AI Gomoku Agent")
